@@ -29,7 +29,7 @@
   "license": "BSD-3-Clause",
   "require": {
     "php": ">=7.0",
-    "symfony/cache": "^4.4"
+    "symfony/cache": "4.4"
   },
   "require-dev": {
     "php-coveralls/php-coveralls": "^2.3",
